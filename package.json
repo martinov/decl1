@@ -10,8 +10,12 @@
   "author": "Martin Martinov (https://mmartinov.com/)",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "iconv-lite": "^0.6.3",
     "mustache": "^4.2.0",
-    "zx": "^4.2.0"
+    "zx": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0"
   }
 }
